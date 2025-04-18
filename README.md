@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="https://github.com/EfazDev/efazdev-cdn/blob/main/cdn/png/logo.png?raw=true" width="40" height="40"> EfazDev</h1>
+<h1 align="center"><img align="center" src="https://github.com/EfazDev/efazdev-cdn/blob/main/cdn/png/profile_picture_circle.png?raw=true" width="40" height="40"> EfazDev</h1>
 <p align="center">   
     <a href="https://youtube.efaz.dev"><img src="https://img.shields.io/youtube/channel/subscribers/UCO3EkTD0HhCVd07Su2pkMng?style=social&labelColor=ff0000&color=ff0000" alt="YouTube"></a>
     <a href="https://twitter.efaz.dev"><img src="https://img.shields.io/twitter/follow/EfazDev?style=social&labelColor=00ffff&color=00ffff" alt="Twitter"></a>
